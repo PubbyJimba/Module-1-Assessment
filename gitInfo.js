@@ -54,7 +54,7 @@ const gitStatusDefinition = "Doesn't change anyting in your local repository. Sh
 
 //CODE HERE
 const gitAddDefinition = "Adds new or changed files to the git staging area. Adds files to what will get commited."
-const gitAddCode = "git add -a"
+const gitAddCode = "git add -A"
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
